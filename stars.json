@@ -1,15 +1,15 @@
 [
   {
     "full_name": "basarat/typescript-for-professionals",
-    "stargazers_count": 99,
+    "stargazers_count": 101,
     "open_issues_count": 1,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "actualbudget/actual",
-    "stargazers_count": 4881,
-    "open_issues_count": 74,
-    "forks_count": 373
+    "stargazers_count": 4913,
+    "open_issues_count": 73,
+    "forks_count": 375
   },
   {
     "full_name": "eggheadio/portfolio-template-and-challenge",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "remix-run/remix",
-    "stargazers_count": 17795,
-    "open_issues_count": 322,
-    "forks_count": 1395
+    "stargazers_count": 17882,
+    "open_issues_count": 316,
+    "forks_count": 1402
   },
   {
     "full_name": "sanity-io/groq-js",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "skillrecordings/products",
-    "stargazers_count": 98,
-    "open_issues_count": 5,
+    "stargazers_count": 99,
+    "open_issues_count": 6,
     "forks_count": 14
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "alyssaxuu/flowy",
-    "stargazers_count": 9341,
+    "stargazers_count": 9355,
     "open_issues_count": 44,
-    "forks_count": 742
+    "forks_count": 744
   },
   {
     "full_name": "ashleemboyer/egghead-accessible-nextjs-blog-course",
@@ -104,7 +104,7 @@
   {
     "full_name": "tvillarete/ipod-classic-js",
     "stargazers_count": 1153,
-    "open_issues_count": 27,
+    "open_issues_count": 26,
     "forks_count": 73
   },
   {
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "makenotion/notion-sdk-js",
-    "stargazers_count": 2876,
+    "stargazers_count": 2890,
     "open_issues_count": 19,
-    "forks_count": 300
+    "forks_count": 301
   },
   {
     "full_name": "jasperfurniss/design-system",
@@ -127,26 +127,26 @@
   },
   {
     "full_name": "sw-yx/spark-joy",
-    "stargazers_count": 7145,
+    "stargazers_count": 7149,
     "open_issues_count": 5,
     "forks_count": 266
   },
   {
     "full_name": "mrdoob/three.js",
-    "stargazers_count": 83355,
-    "open_issues_count": 497,
-    "forks_count": 32230
+    "stargazers_count": 83455,
+    "open_issues_count": 494,
+    "forks_count": 32269
   },
   {
     "full_name": "bregman-arie/devops-exercises",
-    "stargazers_count": 27588,
-    "open_issues_count": 20,
-    "forks_count": 5762
+    "stargazers_count": 27667,
+    "open_issues_count": 16,
+    "forks_count": 5800
   },
   {
     "full_name": "johnlindquist/kit",
-    "stargazers_count": 1529,
-    "open_issues_count": 5,
+    "stargazers_count": 1533,
+    "open_issues_count": 6,
     "forks_count": 41
   },
   {
@@ -158,14 +158,14 @@
   {
     "full_name": "eggheadio/egghead-next",
     "stargazers_count": 1179,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 161
   },
   {
     "full_name": "colbyfayock/launchtime-workshop",
     "stargazers_count": 27,
     "open_issues_count": 0,
-    "forks_count": 20
+    "forks_count": 19
   },
   {
     "full_name": "edieblu/mdfile-generator",
